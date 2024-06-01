@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lucifer2701
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohd Asif Farhan
+- 👀 I’m interested in Python Projects and gaming
+- 🌱 I’m currently learning Machine Learning concepts
+- 💞️ 
+- 📫 How to reach me (Email : asiffarhan2701@gmail.com)
 
 <!---
 lucifer2701/lucifer2701 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
